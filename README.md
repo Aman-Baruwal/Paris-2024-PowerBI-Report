@@ -80,9 +80,8 @@ This repository contains a **comprehensive analysis** of the **Paris 2024 Olympi
 ### 📅 ScreenShots
 
 ![Image](https://github.com/user-attachments/assets/d1e3425d-9615-45c1-b848-afd46f7c6361)
-![Image](https://github.com/user-attachments/assets/d4f7a5e2-4fba-4146-bb67-dec21834e7b4)
 ![Image](https://github.com/user-attachments/assets/a91325da-6e69-4529-a6d7-0fb1c3bbf7a2)
 ![Image](https://github.com/user-attachments/assets/11595a54-4203-4f9c-96c8-55ee66f5fef7)
 ![Image](https://github.com/user-attachments/assets/8ae3b296-b979-48f3-8f97-7af7aaec8035)
-
+![Image](https://github.com/user-attachments/assets/d4f7a5e2-4fba-4146-bb67-dec21834e7b4)
 
